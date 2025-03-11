@@ -13,8 +13,8 @@ import java.awt.Font;
 import javax.swing.*;
 
 
-public class RentalFrame extends JFrame {
-    public RentalFrame() {
+public class Main extends JFrame {
+    public Main() {
         setTitle("Rental Kendaraan");
         setSize(300, 200);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
